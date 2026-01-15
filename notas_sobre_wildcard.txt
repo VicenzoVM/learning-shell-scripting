@@ -1,0 +1,3 @@
+Alguns caracteres especiais funcionam dentro de strings, eles não sao interpretados como texto a menos que:
+exista o caractere especial \ (backlash), esses caracteres especias sao o proprio backlash e:
+$ por que marca variaveis, o proprio " que marca inicio de string ou final string
